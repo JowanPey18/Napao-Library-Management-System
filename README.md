@@ -1,2 +1,6 @@
 # Napao-Library-Management-System
-Sample, Unfinished project during college.
+Sample Only, Unfinished project during college.
+Studying Python basics.
+
+#TKINTER MASTERCLASS
+- pip install pillow (from PIL import Image, ImageTk)
