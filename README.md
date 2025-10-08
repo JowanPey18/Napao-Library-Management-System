@@ -1,4 +1,4 @@
-# Napao-Library-Management-System
+# Basic-Library-Management-System
 - Sample Only, Unfinished project during college.
 - Studying Python basics.
 - Desktop Application.
